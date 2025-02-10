@@ -1,2 +1,2 @@
 say-hello:
-	uv run hello.py
+	python3 -m hello.py
