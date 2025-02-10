@@ -1,2 +1,2 @@
 say-hello:
-	python3 -m hello.py
+	python3 -m hello
